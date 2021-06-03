@@ -2,9 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Maxwell](./jfm1933.html).
+[Johnston](./jjj1933.html).
+
 
 There should be whitespace between paragraphs.
 
